@@ -41,10 +41,9 @@ El script se llama `build-run.sh` y automatiza el proceso completo de construcci
 
 ## Captura de Pantalla
 
-```md
-![Captura](/screenshot.png)
-```
----
+![alt text](screenshot.png)
+![alt text](screenshot3.png)
+![alt text](screenshot2.png)
 
 ## Mejoras Futuras
 
